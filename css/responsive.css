@@ -15,7 +15,8 @@
     }
 }
 	
-@media screen and (min-width: 660px){
+@media screen and (min-width: 660px)
+	{
 	#logo{
         float: left;
         margin-left: 5%;
@@ -53,3 +54,9 @@
         width: 40%;
         float: right;
     }
+@media screen and (max-width: 660px)
+{
+	#gallery li{
+		height: 305px;
+	}
+}
