@@ -1,4 +1,5 @@
-@media screen and (min-width: 480px){
+@media screen and (min-width: 480px)
+{
 	/* PAGE : ABOUT */
     .profile-photo{
         float: left;
@@ -8,6 +9,7 @@
 	/* PAGE : HOME */
     #gallery li{
         width: 28.3333%;
+		height: 300px;
     }
 	
     body{
